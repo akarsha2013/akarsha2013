@@ -8,7 +8,7 @@
 
 🧩 Solved 160+ DSA Problems
 
-🚀 Built 7+ Full Stack Projects
+🚀 Built 8+ Full Stack Projects
 
 📍 Bangalore, India## Hi there 👋
 

@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi, I'm Akarsha 👋
+
+💻 Full Stack Developer
+
+⚛️ React.js | Java | Spring Boot | JavaScript
+
+🤖 Exploring Generative AI, RAG & LLMs
+
+🧩 Solved 160+ DSA Problems
+
+🚀 Built 7+ Full Stack Projects
+
+📍 Bangalore, India## Hi there 👋
 
 <!--
 **akarsha2013/akarsha2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

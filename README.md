@@ -1,6 +1,6 @@
 # Hi, I'm Akarsha 👋
 
-💻 Full Stack Developer
+💻 Full Stack Developer  | Mern Stack Developer
 
 ⚛️ Node.js | Express.js | Mongodb | React.js | JavaScript | Bootstrap  
 

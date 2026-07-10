@@ -2,7 +2,7 @@
 
 💻 Full Stack Developer
 
-⚛️ React.js | Java | Spring Boot | JavaScript
+⚛️ Node.js | Express.js | Mongodb | React.js | JavaScript | Bootstrap  
 
 🤖 Exploring Generative AI, RAG & LLMs
 
